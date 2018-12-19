@@ -1,0 +1,5 @@
+//  ____________________________________________________________
+// |      Qlik Deployment Framework Path Info txt              		
+// |   Application folder under misc contains Qlik Sense applications 
+// |   This is a backup storage, applications should be installed using QMC                        					
+// |___________________________________________________________

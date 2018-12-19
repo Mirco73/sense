@@ -1,0 +1,4 @@
+Prefix,ContainerName,Comments,AltPath
+Admin,0.Administration,Mandatory administration container,
+Shared,99.Shared_Folders,Common content storage,
+Example,1.Example,Container with basic examples,
